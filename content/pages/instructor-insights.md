@@ -74,7 +74,17 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 75% Problem sets{{< br >}}- 25% Class participation{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 75% Problem sets
+- 25% Class participation
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Information
 -------------------

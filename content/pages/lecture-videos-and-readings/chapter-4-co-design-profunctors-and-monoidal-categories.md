@@ -11,7 +11,46 @@ uid: ffa547eb-d3d1-1471-23d0-4bdd3a2744d2
 Lecture Videos
 --------------
 
-| [![A men standing in front of a blackboard and pointing the blackboard with left hand.]({{< resource_file 2af25eae-8bc6-79d4-24dd-e81d84589a82 >}})](https://www.youtube.com/watch?v=4Uqgsy3zrjs&index=7&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) |  {{< br >}}{{< br >}} Session 7 {{< br >}}{{< br >}} [Chapter 4: Co-design: Profunctors and Monoidal Categories Part 1](https://www.youtube.com/watch?v=4Uqgsy3zrjs&index=7&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) {{< br >}}{{< br >}} by Dr. David I. Spivak {{< br >}}{{< br >}}  | [![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file 15c8a188-3310-9cbf-0e5d-b452f471b52c >}})](https://www.youtube.com/watch?v=92Xp1z9PwJM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=8) |  {{< br >}}{{< br >}} Session 8 {{< br >}}{{< br >}} [Chapter 4: Co-design: Profunctors and Monoidal Categories Part 2](https://www.youtube.com/watch?v=92Xp1z9PwJM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=8) {{< br >}}{{< br >}} by Dr. Brendan Fong {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and pointing the blackboard with left hand.]({{< resource_file 2af25eae-8bc6-79d4-24dd-e81d84589a82 >}})](https://www.youtube.com/watch?v=4Uqgsy3zrjs&index=7&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 7
+
+[Chapter 4: Co-design: Profunctors and Monoidal Categories Part 1](https://www.youtube.com/watch?v=4Uqgsy3zrjs&index=7&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+
+by Dr. David I. Spivak
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file 15c8a188-3310-9cbf-0e5d-b452f471b52c >}})](https://www.youtube.com/watch?v=92Xp1z9PwJM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=8)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 8
+
+[Chapter 4: Co-design: Profunctors and Monoidal Categories Part 2](https://www.youtube.com/watch?v=92Xp1z9PwJM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=8)
+
+by Dr. Brendan Fong
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

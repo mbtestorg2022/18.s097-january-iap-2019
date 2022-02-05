@@ -11,7 +11,46 @@ uid: 1c507f98-6ad7-62ae-d8c3-737d2c80a44c
 Lecture Videos
 --------------
 
-| [![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 76c8e2a3-05c9-5956-7efe-35af46cb8ff5 >}})](https://www.youtube.com/watch?v=T2vge38STok&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6&t=403s) |  {{< br >}}{{< br >}} Session 5 {{< br >}}{{< br >}} [Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 1](https://www.youtube.com/watch?v=T2vge38STok&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6&t=403s) {{< br >}}{{< br >}} by Dr. David I. Spivak {{< br >}}{{< br >}}  | [![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 8acab0d8-d2b1-a460-c5cb-e7fe7aec9809 >}})](https://www.youtube.com/watch?v=uqxy5MZrQtI&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6) |  {{< br >}}{{< br >}} Session 6 {{< br >}}{{< br >}} [Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 2](https://www.youtube.com/watch?v=uqxy5MZrQtI&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6) {{< br >}}{{< br >}} by Dr. Brendan Fong {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 76c8e2a3-05c9-5956-7efe-35af46cb8ff5 >}})](https://www.youtube.com/watch?v=T2vge38STok&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6&t=403s)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 5
+
+[Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 1](https://www.youtube.com/watch?v=T2vge38STok&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6&t=403s)
+
+by Dr. David I. Spivak
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 8acab0d8-d2b1-a460-c5cb-e7fe7aec9809 >}})](https://www.youtube.com/watch?v=uqxy5MZrQtI&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 6
+
+[Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 2](https://www.youtube.com/watch?v=uqxy5MZrQtI&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6)
+
+by Dr. Brendan Fong
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

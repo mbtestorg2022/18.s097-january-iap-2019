@@ -11,7 +11,46 @@ uid: 1c3eb217-3942-01a7-1b3e-722b1297579a
 Lecture Videos
 --------------
 
-| [![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file ef509676-403e-b022-bacf-b93d6ca388d6 >}})](https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13) |  {{< br >}}{{< br >}} Session 13 {{< br >}}{{< br >}} [Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 1](https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13) {{< br >}}{{< br >}} by Dr. David I. Spivak {{< br >}}{{< br >}}  | [![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file e8bd272b-6fd6-be21-d799-6ee0ae3117ab >}})](https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14) |  {{< br >}}{{< br >}} Session 14 {{< br >}}{{< br >}} [Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 2](https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14) {{< br >}}{{< br >}} by Dr. Brendan Fong {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file ef509676-403e-b022-bacf-b93d6ca388d6 >}})](https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 13
+
+[Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 1](https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13)
+
+by Dr. David I. Spivak
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file e8bd272b-6fd6-be21-d799-6ee0ae3117ab >}})](https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 14
+
+[Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 2](https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14)
+
+by Dr. Brendan Fong
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

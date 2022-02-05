@@ -11,7 +11,46 @@ uid: f4557088-53f4-aeba-64ea-3468ad171973
 Lecture Videos
 --------------
 
-| [![A men standing in front of a blackboard and pointing the blackboard with left hand.]({{< resource_file c399cdef-9437-4c34-e121-050d23ba037d >}})](https://www.youtube.com/watch?v=JUiHg_F_v1o&index=11&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) |  {{< br >}}{{< br >}} Session 11 {{< br >}}{{< br >}} [Chapter 6: Circuits: Hypergraph Categories and Operads Part 1](https://www.youtube.com/watch?v=JUiHg_F_v1o&index=11&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) {{< br >}}{{< br >}} by Dr. David I. Spivak {{< br >}}{{< br >}}  | [![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 983b3b1a-abec-545b-ef7e-fca7f2fe66f3 >}})](https://www.youtube.com/watch?v=4HoNfw7XCKU&index=12&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) |  {{< br >}}{{< br >}} Session 12 {{< br >}}{{< br >}} [Chapter 6: Circuits: Hypergraph Categories and Operads Part 2](https://www.youtube.com/watch?v=4HoNfw7XCKU&index=12&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) {{< br >}}{{< br >}} by Dr. Brendan Fong {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and pointing the blackboard with left hand.]({{< resource_file c399cdef-9437-4c34-e121-050d23ba037d >}})](https://www.youtube.com/watch?v=JUiHg_F_v1o&index=11&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 11
+
+[Chapter 6: Circuits: Hypergraph Categories and Operads Part 1](https://www.youtube.com/watch?v=JUiHg_F_v1o&index=11&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+
+by Dr. David I. Spivak
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 983b3b1a-abec-545b-ef7e-fca7f2fe66f3 >}})](https://www.youtube.com/watch?v=4HoNfw7XCKU&index=12&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 12
+
+[Chapter 6: Circuits: Hypergraph Categories and Operads Part 2](https://www.youtube.com/watch?v=4HoNfw7XCKU&index=12&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+
+by Dr. Brendan Fong
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

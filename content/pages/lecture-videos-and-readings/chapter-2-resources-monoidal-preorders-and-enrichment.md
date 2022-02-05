@@ -11,7 +11,46 @@ uid: 1e6c6483-8234-095e-05a6-07b7332ef4a0
 Lecture Videos
 --------------
 
-| [![A men standing in front of a blackboard and pointing the blackboard with left hand.]({{< resource_file e4f98d35-14ff-73e8-8b55-d6f45dd851b9 >}})](https://www.youtube.com/watch?v=Cf3tsAeGhBg&index=3&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) |  {{< br >}}{{< br >}} Session 3 {{< br >}}{{< br >}} [Chapter 2: Resources: Monoidal Preorders and Enrichment Part 1](https://www.youtube.com/watch?v=Cf3tsAeGhBg&index=3&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) {{< br >}}{{< br >}} by Dr. David I. Spivak {{< br >}}{{< br >}}  | [![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 12c7fbf0-ea94-c1a4-ea0c-f81cc4c4deb5 >}})](https://www.youtube.com/watch?v=DvI3jzFNbEU&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=4) |  {{< br >}}{{< br >}} Session 4 {{< br >}}{{< br >}} [Chapter 2: Resources: Monoidal Preorders and Enrichment Part 2](https://www.youtube.com/watch?v=DvI3jzFNbEU&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=4) {{< br >}}{{< br >}} by Dr. Brendan Fong {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and pointing the blackboard with left hand.]({{< resource_file e4f98d35-14ff-73e8-8b55-d6f45dd851b9 >}})](https://www.youtube.com/watch?v=Cf3tsAeGhBg&index=3&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 3
+
+[Chapter 2: Resources: Monoidal Preorders and Enrichment Part 1](https://www.youtube.com/watch?v=Cf3tsAeGhBg&index=3&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+
+by Dr. David I. Spivak
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 12c7fbf0-ea94-c1a4-ea0c-f81cc4c4deb5 >}})](https://www.youtube.com/watch?v=DvI3jzFNbEU&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=4)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 4
+
+[Chapter 2: Resources: Monoidal Preorders and Enrichment Part 2](https://www.youtube.com/watch?v=DvI3jzFNbEU&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=4)
+
+by Dr. Brendan Fong
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

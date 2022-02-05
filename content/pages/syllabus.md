@@ -49,12 +49,107 @@ Attending lecture is mandatory, unless you have prior permission from one of the
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1–2 | Chapter 1: Generative Effects: Orders and Adjunctions | Problem set 1 out  |
-| 3–4 | Chapter 2: Resources: Monoidal Preorders and Enrichment | &nbsp; |
-| 5–6 | Chapter 3: Databases: Categories, Functors, and (Co)Limits | Problem set 1 due in session 6  {{< br >}}Problem set 2 out |
-| 7–8 | Chapter 4: Co-design: Profunctors and Monoidal Categories | &nbsp; |
-| 9–10 | Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs | Problem set 2 due in session 10  {{< br >}}Problem set 3 out |
-| 11–12 | Chapter 6: Circuits: Hypergraph Categories and Operads | &nbsp; |
-| 13–14 | Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages | Problem set 3 due in session 14
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1: Generative Effects: Orders and Adjunctions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2: Resources: Monoidal Preorders and Enrichment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5–6
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3: Databases: Categories, Functors, and (Co)Limits
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due in session 6  
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–8
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4: Co-design: Profunctors and Monoidal Categories
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–10
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due in session 10  
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11–12
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6: Circuits: Hypergraph Categories and Operads
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13–14
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due in session 14
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

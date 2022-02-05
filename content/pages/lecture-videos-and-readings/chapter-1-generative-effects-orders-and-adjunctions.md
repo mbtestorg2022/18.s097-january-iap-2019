@@ -11,7 +11,46 @@ uid: b6d27364-52fb-f6e9-8330-e576e21fa70a
 Lecture Videos
 --------------
 
-| [![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file a0b31194-4a2d-2e36-fe42-9e34900b6919 >}})](https://www.youtube.com/watch?v=UusLtx9fIjs&t=525s&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) |  {{< br >}}{{< br >}} Session 1 {{< br >}}{{< br >}} [Chapter 1: Generative Effects: Orders and Adjunctions Part 1](https://www.youtube.com/watch?v=UusLtx9fIjs&t=525s&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) {{< br >}}{{< br >}} by Dr. David I. Spivak {{< br >}}{{< br >}}  | [![A men standing in front of a blackboard and facing front.]({{< resource_file 9f18ad28-992c-4acc-d650-4973f6aa643a >}})](https://www.youtube.com/watch?v=2BYl7NgHjvc&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) |  {{< br >}}{{< br >}} Session 2 {{< br >}}{{< br >}} [Chapter 1: Generative Effects: Orders and Adjunctions Part 2](https://www.youtube.com/watch?v=2BYl7NgHjvc&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5) {{< br >}}{{< br >}} by Dr. Brendan Fong {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file a0b31194-4a2d-2e36-fe42-9e34900b6919 >}})](https://www.youtube.com/watch?v=UusLtx9fIjs&t=525s&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 1
+
+[Chapter 1: Generative Effects: Orders and Adjunctions Part 1](https://www.youtube.com/watch?v=UusLtx9fIjs&t=525s&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+
+by Dr. David I. Spivak
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and facing front.]({{< resource_file 9f18ad28-992c-4acc-d650-4973f6aa643a >}})](https://www.youtube.com/watch?v=2BYl7NgHjvc&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 2
+
+[Chapter 1: Generative Effects: Orders and Adjunctions Part 2](https://www.youtube.com/watch?v=2BYl7NgHjvc&index=2&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+
+by Dr. Brendan Fong
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------

@@ -11,7 +11,46 @@ uid: ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a
 Lecture Videos
 --------------
 
-| [![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file 006b8844-5480-060d-4157-099ac03bfe5a >}})](https://www.youtube.com/watch?v=33yVpzPOLjM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=9) |  {{< br >}}{{< br >}} Session 9 {{< br >}}{{< br >}} [Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 1](https://www.youtube.com/watch?v=33yVpzPOLjM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=9) {{< br >}}{{< br >}} by Dr. David I. Spivak {{< br >}}{{< br >}}  | [![A men standing in front of a blackboard and facing front.]({{< resource_file 3fabd32a-56f7-5f36-f763-8fd533beaa81 >}})](https://www.youtube.com/watch?v=0tnqd29TY9w&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=10) |  {{< br >}}{{< br >}} Session 10 {{< br >}}{{< br >}} [Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 2](https://www.youtube.com/watch?v=0tnqd29TY9w&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=10) {{< br >}}{{< br >}} by Dr. Brendan Fong {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file 006b8844-5480-060d-4157-099ac03bfe5a >}})](https://www.youtube.com/watch?v=33yVpzPOLjM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=9)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 9
+
+[Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 1](https://www.youtube.com/watch?v=33yVpzPOLjM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=9)
+
+by Dr. David I. Spivak
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+[![A men standing in front of a blackboard and facing front.]({{< resource_file 3fabd32a-56f7-5f36-f763-8fd533beaa81 >}})](https://www.youtube.com/watch?v=0tnqd29TY9w&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=10)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Session 10
+
+[Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 2](https://www.youtube.com/watch?v=0tnqd29TY9w&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=10)
+
+by Dr. Brendan Fong
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------
