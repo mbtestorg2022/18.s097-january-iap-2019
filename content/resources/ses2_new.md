@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b6d27364-52fb-f6e9-8330-e576e21fa70a
 resourcetype: Image
 title: ses2_new.jpg
 uid: 9f18ad28-992c-4acc-d650-4973f6aa643a

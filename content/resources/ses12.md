@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f4557088-53f4-aeba-64ea-3468ad171973
 resourcetype: Image
 title: ses12.jpg
 uid: 983b3b1a-abec-545b-ef7e-fca7f2fe66f3

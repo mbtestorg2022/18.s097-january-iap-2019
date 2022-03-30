@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a
 resourcetype: Image
 title: ses9.jpg
 uid: 006b8844-5480-060d-4157-099ac03bfe5a

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: f4557088-53f4-aeba-64ea-3468ad171973
 resourcetype: Image
 title: ses11.jpg
 uid: c399cdef-9437-4c34-e121-050d23ba037d

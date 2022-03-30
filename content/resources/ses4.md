@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1e6c6483-8234-095e-05a6-07b7332ef4a0
 resourcetype: Image
 title: ses4.jpg
 uid: 12c7fbf0-ea94-c1a4-ea0c-f81cc4c4deb5

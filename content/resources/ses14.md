@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1c3eb217-3942-01a7-1b3e-722b1297579a
 resourcetype: Image
 title: ses14.jpg
 uid: e8bd272b-6fd6-be21-d799-6ee0ae3117ab

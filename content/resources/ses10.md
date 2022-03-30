@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a
 resourcetype: Image
 title: ses10.jpg
 uid: 3fabd32a-56f7-5f36-f763-8fd533beaa81

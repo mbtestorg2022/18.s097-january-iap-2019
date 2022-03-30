@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 1c507f98-6ad7-62ae-d8c3-737d2c80a44c
 resourcetype: Image
 title: ses5.jpg
 uid: 76c8e2a3-05c9-5956-7efe-35af46cb8ff5
